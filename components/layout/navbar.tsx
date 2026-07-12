@@ -32,10 +32,6 @@ export default function Navbar() {
         </nav>
 
         <div className="flex items-center gap-3">
-          <Button href="/contact" variant="secondary" className="hidden sm:flex">
-            <PhoneCall size={16} />
-            Pedir Agora
-          </Button>
           <CartButton />
           <button className="rounded-full border border-slate-200 bg-white p-3 text-slate-700 shadow-sm md:hidden">
             <Menu size={18} />

@@ -20,7 +20,6 @@ export default function HeroSection() {
             </p>
           </div>
           <div className="flex flex-wrap gap-4">
-            <Button href="/contact" variant="primary" icon={<ArrowRight size={18} />}>Pedir Agora</Button>
             <Button href="/menu" variant="secondary">Ver Cardápio</Button>
           </div>
           <div className="flex flex-wrap gap-6 text-sm text-slate-600">
