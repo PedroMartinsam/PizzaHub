@@ -50,9 +50,14 @@ O objetivo é proporcionar uma experiência simples para o cliente e fácil de a
 
 ## 📸 Demonstração
 
-<p align="center"> <img src="./public/readme/home.png" alt="Página Inicial" width="30%" /> <img src="./public/readme/cardapio.png" alt="Cardápio" width="30%" /> <img src="./public/readme/carrinho.png" alt="Carrinho" width="30%" /> </p>
+<p align="center"> <img src="./public/image/home.png" alt="Página Inicial" width="80%" /> <img src="./public/image/cardapio.png" alt="Cardápio" width="80%" /> </p>
 
-<p align="center"> <b>Página Inicial</b> • <b>Cardápio</b> • <b>Carrinho</b> </p>
+<p align="center"> <b>Página Inicial</b> • <b>Cardápio</b>  </p>
+
+<p align="center"> 
+  <img src="./public/image/carrinho.png" alt="Carrinho" width="30%" /> </p>
+
+<p align="center"> <b>Carrinho</b> </p>
 
 ---
 
